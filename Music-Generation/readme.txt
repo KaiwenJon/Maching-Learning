@@ -1,0 +1,2 @@
+由於我是使用colab進行ipython的編輯，故output有可能不會留下來。
+所以我將生出的音樂另存成wave檔，若output不見可直接見我另存的音。
